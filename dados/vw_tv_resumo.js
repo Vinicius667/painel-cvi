@@ -1,0 +1,1 @@
+(window.__painel=window.__painel||{})["vw_tv_resumo"]={"colunas":["nu_ano","tp_coordenacao","qt_viagens","qt_viajantes","qt_emissoes","qt_destinos","vl_viajante","vl_servicos","qt_em_andamento","qt_previstas"],"linhas":[[2026,"CVI",3555,1595,4037,494,6528182.47,9446227.83,45,102]]};

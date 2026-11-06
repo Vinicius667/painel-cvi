@@ -1,0 +1,1 @@
+(window.__painel=window.__painel||{})["vw_tv_viajante"]={"colunas":["nu_ano","tp_coordenacao","no_pessoa","qt_viagens"],"linhas":[[2026,"CVI","Gerlane Santos",34],[2026,"CVI","Nadja Guimarães",26],[2026,"CVI","Diego Silva",25],[2026,"CVI","Vinicius Conceição",24],[2026,"CVI","Edson Pereira",23],[2026,"CVI","André Melo",21]]};
