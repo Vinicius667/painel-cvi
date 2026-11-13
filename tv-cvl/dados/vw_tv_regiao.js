@@ -1,0 +1,1 @@
+(window.__painel=window.__painel||{})["vw_tv_regiao"]={"colunas":["nu_ano","tp_coordenacao","no_regiao","qt_viagens"],"linhas":[[2026,"CVL","Não identificada",11],[2026,"CVL","Centro-Oeste",71],[2026,"CVL","Sudeste",180],[2026,"CVL","Norte",2],[2026,"CVL","Sul",8]]};
